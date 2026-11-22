@@ -1,0 +1,25 @@
+station_name,calendar_group,calendar_value,missing_days,station_days,missing_pct
+Espoo Leppävaara Läkkisepänkuja,weekend,weekday,1,262,0.38
+Espoo Leppävaara Läkkisepänkuja,weekend,weekend,0,104,0.0
+Espoo Leppävaara Läkkisepänkuja,season,autumn,1,102,0.98
+Espoo Leppävaara Läkkisepänkuja,season,spring,0,92,0.0
+Espoo Leppävaara Läkkisepänkuja,season,summer,0,93,0.0
+Espoo Leppävaara Läkkisepänkuja,season,winter,0,79,0.0
+Helsinki Kallio 2,weekend,weekday,11,262,4.2
+Helsinki Kallio 2,weekend,weekend,2,104,1.92
+Helsinki Kallio 2,season,autumn,11,102,10.78
+Helsinki Kallio 2,season,spring,0,92,0.0
+Helsinki Kallio 2,season,summer,0,93,0.0
+Helsinki Kallio 2,season,winter,2,79,2.53
+Helsinki Mäkelänkatu,weekend,weekday,2,262,0.76
+Helsinki Mäkelänkatu,weekend,weekend,0,104,0.0
+Helsinki Mäkelänkatu,season,autumn,2,102,1.96
+Helsinki Mäkelänkatu,season,spring,0,92,0.0
+Helsinki Mäkelänkatu,season,summer,0,93,0.0
+Helsinki Mäkelänkatu,season,winter,0,79,0.0
+Vantaa Tikkurila Neilikkatie,weekend,weekday,2,262,0.76
+Vantaa Tikkurila Neilikkatie,weekend,weekend,2,104,1.92
+Vantaa Tikkurila Neilikkatie,season,autumn,4,102,3.92
+Vantaa Tikkurila Neilikkatie,season,spring,0,92,0.0
+Vantaa Tikkurila Neilikkatie,season,summer,0,93,0.0
+Vantaa Tikkurila Neilikkatie,season,winter,0,79,0.0
